@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[box:home|Door43 (box)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-box|d43-box repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-box/archive/master.zip|d43-box.zip]]
+
+**Recent Changes**
+{{changes>ns = box}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/box|Ethnologue data]]
+
